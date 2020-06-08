@@ -1,0 +1,17 @@
+{
+  "name": "my-app-3",
+  "displayName": "my-app-3",
+  "expo": {
+    "name": "my-app-3",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
